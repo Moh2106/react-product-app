@@ -1,5 +1,21 @@
 # Getting Started with Create React App
 
+Il s'agit d'une application pour faire la gestion des produits avec le framework react.
+Dans cette application nous avons réalisé le CRUD (Create-Read-Update-Delete)
+
+Voici ici l'interface des produits. Cette interface affiche les différents produits qui existent et les différents opérations qu'on peut effectuer
+
+![crossover-image](src/assets/products_interface.png)
+
+Sur cette interface on peut ajouter un produit
+
+![crossover-image](src/assets/add_product_interface.png)
+
+Sur cette interface on peut editer un produit
+
+![crossover-image](src/assets/edit_interface.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
